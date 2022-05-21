@@ -1,0 +1,16 @@
+{
+  "title": "Niluh Sekar",
+  "description": "be the best version of yourself",
+  "desc": "Mahasiswa Program Studi Sistem Informasi Universitas Ahmad Dahlan fakultas sains dan teknologi terapan yang sedang mengembangkan dan memperkaya diri dengan aplikasi desain, menyukai ilustrasi meski masih abstrak dan senang ikut ke volunteer - an. Disamping menjadi mahasiswa juga mengikuti organisasi didalam maupun di luar kampus.",
+  "social": {
+    "ig": {
+      "url": "https://instagram.com/niluhskrlfa_",
+      "title": "niluhskrlfa_"
+    },
+    "github": {
+      "url": "https://github.com/niluh12345",
+      "title": "niluh12345"
+    }
+  },
+  "imageProfile": "./images/profile.png"
+}

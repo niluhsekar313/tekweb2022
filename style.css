@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  box-sizing: border-box;
+}
+
+body {
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+nav {
+  height: 80px;
+
+  border-bottom: 1px solid#000000;
+}
+
+nav .logo {
+  line-height: 80px;
+  font-size: 35px;
+  padding: 0 50px;
+  font-weight: bold;
+}
+
+nav ul {
+  float: right;
+  margin-right: 20px;
+}
+
+nav ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+  border-radius: 3px;
+}
+nav ul li a {
+  margin-right: 20px;
+  font-weight: lighter;
+  font-size: 19px;
+  color: #3b3838;
+  padding: none;
+}
+.a.active,
+a:hover {
+  color: rgb(64, 96, 125);
+  border: none;
+}
+.cover {
+  position: relative;
+  background-position: center;
+  background-size: auto;
+  height: auto;
+}
+
+.cover .masking {
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+  top: 0;
+  opacity: 0.5;
+  z-index: 0;
+}
+
+.cover .masking1 {
+  height: 700px;
+  position: absolute;
+  width: 100%;
+  top: 0;
+  opacity: 0.28;
+  z-index: 0;
+
+  background-size: 4px;
+}
+
+.masking2 {
+  position: relative;
+  width: 100%;
+  bottom: 0;
+  top: 0;
+  z-index: 0;
+}
+
+.cover .social a {
+  color: rgb(123, 125, 218);
+}
+
+.cover img {
+  width: 260px;
+}
+
+.cover .social a {
+  color: #485c91;
+}
+
+h1 {
+  color: #000000;
+  font-size: 50px;
+}
+
+p {
+  color: rgb(50, 81, 137);
+}
+
+.row p {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  position: relative;
+}
+
+.jarak {
+  padding: 7px 20px;
+  color: #000000;
+}
+
+.bg-primary {
+  background-color: rgb(167, 176, 216) !important;
+}
+
+.bg-primary:focus,
+.bg-primary:hover {
+  background-color: rgb(143, 112, 205) !important;
+}
+
+.bg-secondary {
+  background-color: rgb(125, 132, 228) !important;
+}
+
+.bg-secondary:focus,
+.bg-secondary:hover {
+  background-color: rgb(129, 141, 215) !important;
+}
+
+.bg-danger {
+  background-color: rgb(145, 159, 238) !important;
+}
+
+.bg-danger:focus,
+.bg-danger:hover {
+  background-color: rgb(110, 121, 195) !important;
+}
+
+.btn a {
+  background-color: rgb(99, 120, 168);
+  color: rgb(59, 88, 114);
+}
+
+.container h2 {
+  color: #685bc9;
+}
+
+.card-body h5 {
+  color: #3e5d85;
+}
+
+.card-body p {
+  color: rgb(104, 122, 168);
+  font-size: 15px;
+}
+
+.card-body a {
+  background-color: rgb(107, 108, 190);
+  color: aliceblue;
+}

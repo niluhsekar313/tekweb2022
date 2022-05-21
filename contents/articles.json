@@ -1,0 +1,29 @@
+[
+  {
+    "num": "1",
+    "title": "Desain Grafis",
+    "description": "Pengalaman desain grafis",
+    "thumbnail": "https://i.pinimg.com/564x/af/a9/91/afa9918575b11aa6c83a27c2c1878e99.jpg",
+    "author": "Niluh Sekar",
+    "published_at": "10 Mei 2022",
+    "content": "article_1.md"
+  },
+  {
+    "num": "2",
+    "title": "Ilustrasi",
+    "description": "suka menggambar meski abstrak",
+    "thumbnail": "https://i.pinimg.com/564x/91/6d/de/916ddefc6db663da19f042ab40dae30d.jpg",
+    "author": "Niluh Sekar",
+    "published_at": "11 Mei 2022",
+    "content": "article_2.md"
+  },
+  {
+    "num": "3",
+    "title": "Volunteer",
+    "description": "Pengalaman sebagai seorang volunteer",
+    "thumbnail": "https://i.pinimg.com/564x/51/6f/21/516f21b26c4c18b13a522d2be418e460.jpg",
+    "author": "Niluh Sekar",
+    "published_at": "12 mei 2022",
+    "content": "article_3.md"
+  }
+]

@@ -2,7 +2,7 @@
 
 _pertama kali saya mendengar desain grafis ketika saya menginjak semester 2._
 
-![Gambar teks editor VS Code]("https://img.freepik.com/free-photo/designer-work_53876-13192.jpg?size=626&ext=jpg&ga=GA1.2.563432033.1651141143")
+![Gambar teks editor VS Code](https://img.freepik.com/free-photo/designer-work_53876-13192.jpg?size=626&ext=jpg&ga=GA1.2.563432033.1651141143)
 
 saat itu sistem belajar dan mengajar
 di kampus saya masih bersifat daring atau online. saat itu saya berniat untuk mendaftarkan diri saya pada organisasi

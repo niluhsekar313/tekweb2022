@@ -1,4 +1,4 @@
-#PENGALAMAN MEMULAI DESAIN GRAFIS#
+# PENGALAMAN MEMULAI DESAIN GRAFIS
 
 _pertama kali saya mendengar desain grafis ketika saya menginjak semester 2._
 
